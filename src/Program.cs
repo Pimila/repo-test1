@@ -15,16 +15,4 @@
   }
 }
 
-/*
-using System;
 
-class Program {
-    static void Main(string[] args) {
-        string lyrics = "Once upon a time\nI was falling in love\nNow I'm only falling apart";
-        for (int i = 0; i < 3; i++) {
-            Console.WriteLine(lyrics);
-        }
-    }
-}
-
-*/

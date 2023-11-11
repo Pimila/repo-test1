@@ -1,1 +1,9 @@
+# Adding Code:
+
+1. Create a new 'src' directory in your repository.
+2. Choose a Java MOOC exercise and copy its related files into the 'src' directory.
+3. Make a new commit (commits should only include C# file types).
+4. Make a modification to the C# program and create a new commit (good commit message: present tense + imperative).
+5. Edit the README file further...
+6. Push your changes to the server.
 
